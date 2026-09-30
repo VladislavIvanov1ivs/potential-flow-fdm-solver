@@ -66,7 +66,7 @@ $$\nabla^2 \psi = \frac{\partial^2 \psi}{\partial x^2} + \frac{\partial^2 \psi}{
 
 ```bash
 # Клонирование репозитория
-git clone [https://github.com/](https://github.com/)<ваш-логин>/potential-flow-fdm-solver.git
+git clone [https://github.com/](https://github.com/)VladislavIvanov1ivs/potential-flow-fdm-solver.git
 cd potential-flow-fdm-solver
 
 # Создание директории сборки
